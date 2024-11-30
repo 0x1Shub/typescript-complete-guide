@@ -1,0 +1,8 @@
+body {
+  --bg-color: #343a40;
+  --text-color: #f8f9fa;
+  --header-bg-color: #212529;
+  --header-text-color: #f8f9fa;
+  --footer-bg-color: #212529;
+  --footer-text-color: #f8f9fa;
+}
